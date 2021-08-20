@@ -6,7 +6,7 @@ export default {
      console.log('Buenas tardes');
    },
    saludoNoche: ()=>{
-     console.log('Buenas noches'):
+     console.log('Buenas noches');
    },
 
 }// fin export
